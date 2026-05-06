@@ -1,1 +1,10 @@
-
+[
+  {
+    "ticket": "My API integration is returning 401 unauthorized",
+    "expected_category": "Technical"
+  },
+  {
+    "ticket": "I want a refund for my last order",
+    "expected_category": "Refund"
+  }
+]
