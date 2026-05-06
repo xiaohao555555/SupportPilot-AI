@@ -1,1 +1,8 @@
+Classify incoming support ticket into one category:
 
+- Billing
+- Technical
+- Product Inquiry
+- Refund
+- Complaint
+- Security
