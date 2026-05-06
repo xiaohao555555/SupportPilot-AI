@@ -1,1 +1,8 @@
+Detect whether this support ticket requires escalation.
 
+Escalate if:
+- VIP customer
+- Legal threat
+- Refund dispute
+- Security incident
+- Severe complaint
